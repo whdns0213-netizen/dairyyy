@@ -1,0 +1,6 @@
+{
+  "name": "감성일기장 — Mood & Vibe Diary",
+  "description": "오늘의 감정과 분위기를 기록하고 감성 카드로 간직하는 무드 다이어리",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
